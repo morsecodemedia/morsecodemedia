@@ -52,6 +52,7 @@ module.exports = {
     ],
     link: [
       { rel: 'author', href:'/humans.txt' },
+      { rel: 'manifest', href:'/manifest.json' },
       { rel: 'icon', type: 'image/x-icon', href: '/favicon/favicon.ico' },
       { rel: 'icon', type: 'image/png', sizes: '196x196', href: '/favicon/favicon-196x196.png' },
       { rel: 'icon', type: 'image/png', sizes: '96x96', href: '/favicon/favicon-96x96.png' },

@@ -1,0 +1,78 @@
+{
+	"dir" : "ltr",
+	"lang" : "en-US",
+	"name" : "morsecodemedia.com",
+	"scope" : "/",
+	"display" : "browser",
+	"start_url" : "https://www.morsecodemedia.com/",
+	"short_name" : "morsecodemedia.",
+	"theme_color" : "FFFFFF",
+	"description" : "Brandon Morse is an award-winning web developer, based out of New Jersey, USA.",
+	"orientation" : "any",
+	"background_color" : "FFFFFF",
+	"related_applications" : [],
+	"prefer_related_applications" : false,
+	"icons" : [
+		{
+			"src": "https://www.morsecodemedia.com/favicon/mstile-144x144.png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/favicon.ico",
+			"sizes": "16x16 24x24 32x32 48x48 64x64"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/favicon-196x196.png",
+			"sizes": "196x196"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/favicon-96x96.png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/favicon-32x32.png",
+			"sizes": "32x32"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/favicon-16x16.png",
+			"sizes": "16x16"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/favicon-128.png",
+			"sizes": "128x128"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/apple-touch-icon-57x57.png",
+			"sizes": "57x57"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/apple-touch-icon-114x114.png",
+			"sizes": "114x114"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/apple-touch-icon-72x72.png",
+			"sizes": "72x72"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/apple-touch-icon-144x144.png",
+			"sizes": "144x144"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/apple-touch-icon-60x60.png",
+			"sizes": "60x60"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/apple-touch-icon-120x120.png",
+			"sizes": "120x120"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/apple-touch-icon-76x76.png",
+			"sizes": "76x76"
+		},
+		{
+			"src": "https://www.morsecodemedia.com/favicon/apple-touch-icon-152x152.png",
+			"sizes": "152x152"
+		}],
+	"url" : "https://www.morsecodemedia.com",
+	"generated" : "true"
+}
