@@ -24,7 +24,7 @@
             name: 'description',
             content: 'Brandon Morse (morsecodemedia) is an award-winning web developer who has a passion to innovate and develop digital experiences.'
           },
-          { hid: 'ogtitle', property: 'og:title', content: 'The Porfolio of Brandon Morse | morsecodemedia.com' },
+          { hid: 'ogtitle', property: 'og:title', content: 'The Portfolio of Brandon Morse | morsecodemedia.com' },
           { hid: 'ogsitename', property: 'og:site_name', content: 'morsecodemedia.com' },
           { hid: 'ogtype', property: 'og:type', content: 'website' },
           { hid: 'ogurl', property: 'og:url', content: 'https://www.morsecodemedia.com/my-special-page' },
@@ -34,13 +34,13 @@
           // Twitter card
           { hid: 'twcard', name: 'twitter:card', content: 'summary' },
           { hid: 'twsite', name: 'twitter:site', content: 'https://www.morsecodemedia.com/my-special-page' },
-          { hid: 'twtitle', name: 'twitter:title', content: 'The Porfolio of Brandon Morse | morsecodemedia.com' },
+          { hid: 'twtitle', name: 'twitter:title', content: 'The Portfolio of Brandon Morse | morsecodemedia.com' },
           { hid: 'twdescription', name: 'twitter:description', content: 'Brandon Morse (morsecodemedia) is an award-winning web developer who has a passion to innovate and develop digital experiences.' },
           { hid: 'twcreator', name: 'twitter:creator', content: '@morsecodemedia' },
           { hid: 'twimage', name: 'twitter:image:src', content: 'https://www.morseodemedia.com/my-special-image.jpg' },
 
           // Google / Schema.org markup:
-          { hid: 'googlename', itemprop: 'name', content: 'The Porfolio of Brandon Morse | morsecodemedia.com' },
+          { hid: 'googlename', itemprop: 'name', content: 'The Portfolio of Brandon Morse | morsecodemedia.com' },
           { hid: 'googledescrition', itemprop: 'description', content: 'Brandon Morse (morsecodemedia) is an award-winning web developer who has a passion to innovate and develop digital experiences.' },
           { hid: 'googleimage', itemprop: 'image', content: 'https://www.my-site.com/my-special-image.jpg '}
         ],
