@@ -1,0 +1,51 @@
+{
+  "solaTherapyCaseStudies": [
+    {
+      "id": "sola001",
+      "client": "SoLá Therapy",
+      "title": "SoLá Therapy Website",
+      "url": "http://www.solatherapy.com/",
+      "yearStart": "2020",
+      "yearEnd": "2020",
+      "insitu": {
+        "img": "/web-sola-therapy/",
+        "color1": "",
+        "color2": ""
+      },
+      "campaignImg": "/web-sola-therapy/",
+      "gallery": [],
+      "overview": {
+        "description": "Commercial real estate services and solutions.",
+        "clientColor": "",
+        "bgColor": "",
+        "titleColor": "",
+        "descriptionColor": "",
+        "copyColor": ""
+      },
+      "description": [
+        {
+          "title": "challenge",
+          "description": "<p>Rebuild of website.</p>",
+          "bgColor": "",
+          "fontColor": ""
+        },
+        {
+          "title": "solution",
+          "description": "<p></p>",
+          "bgColor": "",
+          "fontColor": ""
+        },
+        {
+          "title": "result",
+          "description": "<p></p>",
+          "bgColor": "",
+          "fontColor": ""
+        }
+      ],
+      "needsPassword": false,
+      "category": "Websites",
+      "active": true,
+      "awards": []
+    }
+  ]
+}
