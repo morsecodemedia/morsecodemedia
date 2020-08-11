@@ -4,6 +4,7 @@
 [Contact Information](#contact-information) | [Open Source Projects](#open-source-projects) | [About Me](#about-me) | [Work History](#work-history) | [Awards](#awards) | [Education](#education) | [Certifications](#certifications) | [Technologies Used](#technologies-used)
 <!--te-->
 ## Open Source Projects
+### Projects I Own
 <table>
   <tr>
     <th>Projects</th>
@@ -38,6 +39,70 @@
     </td>
   </tr>
 </table>
+
+### Projects I Contribute To
+<table>
+  <tr>
+    <th>Projects</th>
+    <th>Version</th>
+    <th>Stars</th>
+    <th>Forks</th>
+    <th>Issues</th>
+    <th>PRs</th>
+    <th>Downloads</th>
+  <tr>
+  <tr>
+    <td>
+      <a href="https://github.com/jamestomasino/stutter">Stutter</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/v/release/jamestomasino/stutter" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/jamestomasino/stutter" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/jamestomasino/stutter" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/jamestomasino/stutter" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/jamestomasino/stutter" />
+    </td>
+    <td>
+      <a href="https://addons.mozilla.org/en-US/firefox/addon/stutter/">
+        <img src="https://img.shields.io/badge/Firefox-Get%20Extension!-orange.svg?style=popout&logo=firefox)" />
+      </a>
+      <a href="https://chrome.google.com/webstore/detail/stutter/fbapmaboedchhgjolcnpfgoanbfajchl">
+        <img src="https://img.shields.io/badge/Chrome-Get%20Extension!-green.svg?style=popout&logo=google-chrome" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/jamestomasino/veeva-template">Veeva Template</a>
+    </td>
+    <td>
+      ¯\_(ツ)_/¯
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/jamestomasino/veeva-template" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/jamestomasino/veeva-template" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/jamestomasino/veeva-template" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/jamestomasino/veeva-template" />
+    </td>
+    <td>
+      ¯\_(ツ)_/¯
+    </td>
+  </tr>
+<table>
 
 ## Contact Information
 **Website:** https://www.morsecodemedia.com &nbsp;&nbsp; ![Website](https://img.shields.io/website/https/morsecodemedia.com.svg)
