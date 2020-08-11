@@ -47,7 +47,15 @@
 **LinkedIn:** https://www.linkedin.com/in/brandonmorse
 
 ## About Me
-// TODO: Add About Me
+<p>
+  I am currently working as the Technology Director at GSW Advertising, a Syneos Health company, based in Newtown, PA. As Technology Director, I oversee the code and system architecture, build strategy, and best practices for the execution of developmental projects as well. While I oversee a team in the Newtown office, I also consult on development needs across all agencies in the Syneos network.
+</p>
+<p>
+  I graduated from The Art Institute of Philadelphia with a Bachelor of Science in Multimedia and Web Design in 2005. My education didn't end there. Since then I've obtained various certifications from Google, Veeva, HubSpot and most recently the AWS Alexa Skill Builder certification. With the digital landscape growing at such a rapid pace, I am always reading articles, taking courses, and learning new technologies and methodologies to stay up-to-date on the latest things. The ongoing education fuels my passion to innovate and create a better web.
+</p>
+<p>
+  Over the course of my career, I've lead many teams of developers of various sizes, both in-house as well as located throughout the world. Collaborating with many teams such as Design, Strategy, UX, QA, and even Operations has been instrumental in my success. Understanding each domain's goals allows me to scope, communicate risk and deliver within the timeline defined.
+</p>
 
 ## Work History
 
