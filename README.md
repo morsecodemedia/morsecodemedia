@@ -4,7 +4,40 @@
 [Contact Information](#contact-information) | [Open Source Projects](#open-source-projects) | [About Me](#about-me) | [Work History](#work-history) | [Awards](#awards) | [Education](#education) | [Certifications](#certifications) | [Technologies Used](#technologies-used)
 <!--te-->
 ## Open Source Projects
-// TODO: Add Open Source Projects
+<table>
+  <tr>
+    <th>Projects</th>
+    <th>Version</th>
+    <th>Stars</th>
+    <th>Forks</th>
+    <th>Issues</th>
+    <th>PRs</th>
+    <th>Downloads</th>
+  <tr>
+  <tr>
+    <td>
+      <a href="https://github.com/morsecodemedia/containers.css">Containers.css</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/npm/v/@morsecodemedia/containers.css" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/morsecodemedia/containers.css" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/morsecodemedia/containers.css" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/morsecodemedia/containers.css" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/morsecodemedia/containers.css" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/npm/dt/@morsecodemedia/containers.css" />
+    </td>
+  </tr>
+</table>
 
 ## Contact Information
 **Website:** https://www.morsecodemedia.com &nbsp;&nbsp; ![Website](https://img.shields.io/website/https/morsecodemedia.com.svg)
