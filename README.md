@@ -1,7 +1,7 @@
 # Brandon Morse
 <!--ts-->
 **MENU** <br>
-[Contact Information](#contact-information) | [Open Source Projects](#open-source-projects) | [About Me](#about-me) | [Work History](#work-history) | [Awards](#awards) | [Education](#education) | [Certifications](#certifications) | [Technologies Used](#technologies-used)
+[Open Source Projects](#open-source-projects) | [Contact Information](#contact-information) | [About Me](#about-me) | [Work History](#work-history)
 <!--te-->
 ## Open Source Projects
 ### Projects I Own
