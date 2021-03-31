@@ -74,8 +74,13 @@
       <a href="https://addons.mozilla.org/en-US/firefox/addon/stutter/">
         <img src="https://img.shields.io/badge/Firefox-Get%20Extension!-orange.svg?style=popout&logo=firefox)" />
       </a>
+      <br>
       <a href="https://chrome.google.com/webstore/detail/stutter/fbapmaboedchhgjolcnpfgoanbfajchl">
         <img src="https://img.shields.io/badge/Chrome-Get%20Extension!-green.svg?style=popout&logo=google-chrome" />
+      </a>
+      <br>
+      <a href="https://microsoftedge.microsoft.com/addons/detail/stutter/aonlnjdopgkofbgipdnfdclfpaindajj">
+        <img src="https://img.shields.io/badge/Edge-Get%20Extension!-lightgrey.svg?style=popout&logo=microsoft-edge" />
       </a>
     </td>
   </tr>
