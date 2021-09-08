@@ -38,6 +38,29 @@
       <img src="https://img.shields.io/npm/dt/@morsecodemedia/containers.css" />
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/morsecodemedia/nuxt-template">Nuxt Template</a>
+    </td>
+    <td>
+      --
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/morsecodemedia/nuxt-template" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/morsecodemedia/nuxt-template" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/morsecodemedia/nuxt-template" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/morsecodemedia/nuxt-template" />
+    </td>
+    <td>
+      --
+    </td>
+  </tr>
 </table>
 
 ### Projects I Contribute To
@@ -89,7 +112,7 @@
       <a href="https://github.com/jamestomasino/veeva-template">Veeva Template</a>
     </td>
     <td>
-      ¯\_(ツ)_/¯
+      --
     </td>
     <td>
       <img src="https://img.shields.io/github/stars/jamestomasino/veeva-template" />
@@ -104,7 +127,7 @@
       <img src="https://img.shields.io/github/issues-pr/jamestomasino/veeva-template" />
     </td>
     <td>
-      ¯\_(ツ)_/¯
+      --
     </td>
   </tr>
 <table>
