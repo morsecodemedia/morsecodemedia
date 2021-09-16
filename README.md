@@ -143,7 +143,7 @@
 
 I am currently part of the Technology Leadership team for GSW, a Syneos Health company - primarily overseeing all digital work out of the GSW Philadelphia office, as well as serving as a Technology Director across the Syneos network. As Technology Director, I oversee the code and system architecture, build strategy, and best practices for the execution of developmental projects.
 
-I am also available for freelance development work. Feel free to check out my (constantly in-progress) [portfolio](https://www.morsecodemedia.com), to check out some of my previous work.
+I am also available for freelance development work. Feel free to check out my (constantly in-progress) [portfolio](https://www.morsecodemedia.com), to see some of my previous work.
 
 More about me can be found [here](https://www.morsecodemedia.com/about).
 
