@@ -151,10 +151,10 @@ More about me can be found [here](https://www.morsecodemedia.com/about).
 
 **Freelance Web Developer** &nbsp; 2005-Present<br>
 morsecodemedia<br>
-UTC -04:00
+UTC [-04:00/-05:00](https://www.timeanddate.com/time/zone/usa/new-york-state)
 
 **Technology Director** &nbsp; 2019-Present<br>
 GSW Advertising, a Syneos Health Company<br>
-Newtown, PA
+UTC [-04:00/-05:00](https://www.timeanddate.com/time/zone/usa/new-york-state)
 
 Additional work history can be found on [LinkedIn](https://www.linkedin.com/in/brandonmorse).
