@@ -61,6 +61,75 @@
       --
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/morsecodemedia/ccc.morsecodemedia.com">Color-Contrast Checker</a>
+    </td>
+    <td>
+      --
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/morsecodemedia/ccc.morsecodemedia.com" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/morsecodemedia/ccc.morsecodemedia.com" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/morsecodemedia/ccc.morsecodemedia.com" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/morsecodemedia/ccc.morsecodemedia.com" />
+    </td>
+    <td>
+      --
+    </td>
+  </tr> 
+  <tr>
+    <td>
+      <a href="https://github.com/morsecodemedia/meta-tags.morsecodemedia.com">Meta Tags</a>
+    </td>
+    <td>
+      --
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/morsecodemedia/meta-tags.morsecodemedia.com" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/morsecodemedia/meta-tags.morsecodemedia.com" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/morsecodemedia/meta-tags.morsecodemedia.com" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/morsecodemedia/meta-tags.morsecodemedia.com" />
+    </td>
+    <td>
+      --
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/morsecodemedia/utm-generator.morsecodemedia.com">UTM Generator</a>
+    </td>
+    <td>
+      --
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/morsecodemedia/utm-generator.morsecodemedia.com" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/morsecodemedia/utm-generator.morsecodemedia.com" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/morsecodemedia/utm-generator.morsecodemedia.com" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/morsecodemedia/utm-generator.morsecodemedia.com" />
+    </td>
+    <td>
+      --
+    </td>
+  </tr>  
 </table>
 
 ### Projects I Contribute To
@@ -130,6 +199,30 @@
       --
     </td>
   </tr>
+  
+  <tr>
+    <td>
+      <a href="https://github.com/jamestomasino/veeva-subject-lines">Veeva Subject Lines</a>
+    </td>
+    <td>
+      --
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/jamestomasino/veeva-subject-lines" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/jamestomasino/veeva-subject-lines" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/jamestomasino/veeva-subject-lines" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/jamestomasino/veeva-subject-lines" />
+    </td>
+    <td>
+      --
+    </td>
+  </tr>
 <table>
 
 ## Contact Information
@@ -141,7 +234,7 @@
 
 ## About Me
 
-I am currently part of the Creative Technology Leadership team for GSW, a Syneos Health company - primarily overseeing all digital work out of the GSW East regional office, as well as serving as a Technology Director across the Syneos network. Leading by example to design technical solutions and ensure that all software conforms to the highest quality standards; I own the roadmap and engineering vision; collaborate with product managers and other business partners to prioritize work and set goals for the team.
+I am currently part of the Creative Technology Leadership team for GSW, a Syneos Health company - primarily overseeing all digital work out of the GSW East and Mid-West regional offices, as well as serving as a VP, Technology Director across the Syneos network. Leading by example to design technical solutions and ensure that all software conforms to the highest quality standards; I own the roadmap and engineering vision; collaborate with product managers and other business partners to prioritize work and set goals for the team.
 
 I am also available for freelance development work. Feel free to check out my (constantly in-progress) [portfolio](https://www.morsecodemedia.com), to see some of my previous work.
 
@@ -149,11 +242,11 @@ More about me can be found [here](https://www.morsecodemedia.com/about).
 
 ## Work History
 
-**Freelance Web Developer** &nbsp; 2005-Present<br>
+**Freelance Web Developer** &nbsp; 2003-Present<br>
 morsecodemedia<br>
 UTC [-04:00/-05:00](https://www.timeanddate.com/time/zone/usa/new-york-state)
 
-**Technology Director** &nbsp; 2019-Present<br>
+**VP, Technology Director, Creative Technology** &nbsp; 2021-Present<br>
 GSW Advertising, a Syneos Health Company<br>
 UTC [-04:00/-05:00](https://www.timeanddate.com/time/zone/usa/new-york-state)
 
