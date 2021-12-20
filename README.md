@@ -234,7 +234,7 @@
 
 ## About Me
 
-I am currently part of the Creative Technology Leadership team for GSW, a Syneos Health company - primarily overseeing all digital work out of the GSW East and Mid-West regional offices, as well as serving as a VP, Technology Director across the Syneos network. Leading by example to design technical solutions and ensure that all software conforms to the highest quality standards; I own the roadmap and engineering vision; collaborate with product managers and other business partners to prioritize work and set goals for the team.
+I am currently a VP, Technology Director for GSW, a Syneos Health company - primarily overseeing digital work out of the GSW East and Mid-West regional offices, as well as serving as part of the Creative Technology Leadership team across the Syneos network. Leading by example to design technical solutions and ensure that all software conforms to the highest quality standards; I own the roadmap and engineering vision; collaborate with product managers and other business partners to prioritize work and set goals for the team.
 
 I am also available for freelance development work. Feel free to check out my (constantly in-progress) [portfolio](https://www.morsecodemedia.com), to see some of my previous work.
 
