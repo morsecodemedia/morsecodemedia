@@ -43,7 +43,7 @@
       <a href="https://github.com/morsecodemedia/nuxt-template">Nuxt Template</a>
     </td>
     <td>
-      --
+      <img src="https://img.shields.io/github/package-json/v/morsecodemedia/nuxt-template" />
     </td>
     <td>
       <img src="https://img.shields.io/github/stars/morsecodemedia/nuxt-template" />
@@ -66,7 +66,7 @@
       <a href="https://github.com/morsecodemedia/ccc.morsecodemedia.com">Color-Contrast Checker</a>
     </td>
     <td>
-      --
+      <img src="https://img.shields.io/github/package-json/v/morsecodemedia/ccc.morsecodemedia.com" />
     </td>
     <td>
       <img src="https://img.shields.io/github/stars/morsecodemedia/ccc.morsecodemedia.com" />
@@ -89,7 +89,7 @@
       <a href="https://github.com/morsecodemedia/meta-tags.morsecodemedia.com">Meta Tags</a>
     </td>
     <td>
-      --
+      <img src="https://img.shields.io/github/v/release/morsecodemedia/meta-tags.morsecodemedia.com" />
     </td>
     <td>
       <img src="https://img.shields.io/github/stars/morsecodemedia/meta-tags.morsecodemedia.com" />
