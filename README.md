@@ -112,7 +112,7 @@
       <a href="https://github.com/morsecodemedia/utm-generator.morsecodemedia.com">UTM Generator</a>
     </td>
     <td>
-      --
+      <img src="https://img.shields.io/github/package-json/v/morsecodemedia/utm-generator.morsecodemedia.com" />
     </td>
     <td>
       <img src="https://img.shields.io/github/stars/morsecodemedia/utm-generator.morsecodemedia.com" />
