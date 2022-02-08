@@ -83,7 +83,30 @@
     <td>
       --
     </td>
-  </tr> 
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/morsecodemedia/color-palette.morsecodemedia.com">Color Palette</a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/package-json/v/morsecodemedia/color-palette.morsecodemedia.com" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/stars/morsecodemedia/color-palette.morsecodemedia.com" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/forks/morsecodemedia/color-palette.morsecodemedia.com" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues/morsecodemedia/color-palette.morsecodemedia.com" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/github/issues-pr/morsecodemedia/color-palette.morsecodemedia.com" />
+    </td>
+    <td>
+      --
+    </td>
+  </tr>
   <tr>
     <td>
       <a href="https://github.com/morsecodemedia/meta-tags.morsecodemedia.com">Meta Tags</a>
